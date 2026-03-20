@@ -1,4 +1,4 @@
-# SaintLingual: Benchmarking LLMs on English-Arabic Code-Switched Translation
+# Benchmarking LLMs on English-Arabic Code-Switched Translation
 
 A multilingual NLP research project that builds a human-validated English-Arabic code-switched dataset and benchmarks large language model translation performance using BLEU, cosine similarity, and BERTScore.
 
@@ -8,7 +8,7 @@ Models evaluated: GPT-4.1, MBart-50, and Phi-3.5-mini.
 
 ## Overview
 
-SaintLingual explores how well modern language models handle **English-Arabic code-switching**, where speakers alternate between both languages within the same sentence. While many translation systems perform well on clean monolingual text, real-world multilingual communication is often code-mixed, informal, and context-dependent.
+This project explores how well modern language models handle **English-Arabic code-switching**, where speakers alternate between both languages within the same sentence. While many translation systems perform well on clean monolingual text, real-world multilingual communication is often code-mixed, informal, and context-dependent.
 
 To study this problem, this project creates a curated English-Arabic code-mixed dataset and evaluates multiple models on their ability to translate these mixed-language inputs accurately and consistently.
 
@@ -26,7 +26,7 @@ This project demonstrates experience in:
 
 Code-switching is common across multilingual communities, but it remains underrepresented in standard NLP benchmarks. This creates a gap between how language technologies are typically evaluated and how people actually communicate.
 
-SaintLingual helps address that gap by:
+We help address that gap by:
 
 - creating a benchmark for English-Arabic code-switched translation
 - comparing model robustness on mixed-language inputs
